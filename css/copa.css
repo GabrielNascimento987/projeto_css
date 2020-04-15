@@ -1,0 +1,198 @@
+body {
+
+	background-color: #FFA07A;
+	color: white;
+	font-family: arial;
+
+}
+table {
+
+	border: solid;
+	border-color: tomato;
+	background-color: tomato;
+	text-align: center;
+	width:850px;
+
+}
+td{
+
+	border: solid;
+	border-color: royalblue;
+	background-color: royalblue;
+	padding: 7px;
+	text-align: center;
+	width: 170px;
+
+}
+th{
+
+	padding: 7px;
+	text-align: center;
+
+}
+#gpa{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpb{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpc{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpd{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpe{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpf{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gpg{
+
+	border: solid;
+	padding: 9px;
+
+}
+#gph{
+
+	border: solid;
+	padding: 9px;
+
+}
+
+#listaa, #listab, #listac, #listad, #listae, #listaf, #listag, #listah{
+	width: 300px;
+	float: left;
+	text-align: left;
+	font-size: 25px;
+	border: solid;
+	padding: 10px;
+	border-color: #FFA07A;
+}
+
+#russia-id{
+	list-style-image: url("../flags/russia.png");
+}
+#arabia-id{
+	list-style-image: url("../flags/arabia.png");
+}
+#egito-id{
+	list-style-image: url("../flags/egito.png")
+}
+#uruguai-id{
+	list-style-image: url("../flags/uruguai.png")
+}
+#portugal-id{
+	list-style-image: url("../flags/portugal.png")
+}
+#espanha-id{
+	list-style-image: url("../flags/espanha.png")
+}
+#marrocos-id{
+	list-style-image: url("../flags/marrocos.png")
+}
+#ira-id{
+	list-style-image: url("../flags/ira.png")
+}
+#franca-id{
+	list-style-image: url("../flags/franca.png")
+}
+#australia-id{
+	list-style-image: url("../flags/australia.png")
+}
+#peru-id{
+	list-style-image: url("../flags/peru.png")
+}
+#dinamarca-id{
+	list-style-image: url("../flags/dinamarca.png") 
+}
+#argentina-id{
+	list-style-image: url("../flags/argentina.png")
+}
+#croacia-id{
+	list-style-image: url("../flags/croacia.png")
+}
+#islandia-id{
+	list-style-image: url("../flags/islandia.png")
+}
+#nigeria-id{
+	list-style-image: url("../flags/nigeria.png")
+}
+#brasil-id{
+	list-style-image: url("../flags/brasil.png")
+}
+#costarica-id{
+	list-style-image: url("../flags/costa-rica.png")
+}
+#servia-id{
+	list-style-image: url("../flags/servia.png")
+}
+#suica-id{
+	list-style-image: url("../flags/suica.png")
+}
+#alemanha-id{
+	list-style-image: url("../flags/alemanha.png")
+}
+#mexico-id{
+	list-style-image: url("../flags/mexico.png")
+}
+#suecia-id{
+	list-style-image: url("../flags/suecia.png")
+}
+#coreiadosul-id{
+	list-style-image: url("../flags/coreiadosul.png")
+}
+#belgica-id{
+	list-style-image: url("../flags/belgica.png")
+}
+#panama-id{
+	list-style-image: url("../flags/panama.png")
+}
+#tunisia-id{
+	list-style-image: url("../flags/tunisia.png")
+}
+#inglaterra-id{
+	list-style-image: url("../flags/inglaterra.png")
+}
+#japao-id{
+	list-style-image: url("../flags/japao.png")
+}
+#senegal-id{
+	list-style-image: url("../flags/senegal.png")
+}
+#colombia-id{
+	list-style-image: url("../flags/colombia.png")
+}
+#polonia-id{
+	list-style-image: url("../flags/polonia.png")
+}
+
+
+
+
+
+
+
+
+
+
+
